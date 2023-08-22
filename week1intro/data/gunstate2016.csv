@@ -1,0 +1,51 @@
+,Year,State,HFR,Abbrev,Code,Deathrate,Deaths
+3,2016,Alabama,0.528,Ala.,AL,21.5,1046
+7,2016,Alaska,0.572,Alaska,AK,23.3,177
+11,2016,Arizona,0.36,Ariz.,AZ,15.2,1094
+15,2016,Arkansas,0.518,Ark.,AR,17.8,541
+19,2016,California,0.163,Calif.,CA,7.9,3184
+23,2016,Colorado,0.379,Colo.,CO,14.3,812
+27,2016,Connecticut,0.188,Conn.,CT,4.6,172
+31,2016,Delaware,0.387,Del.,DE,11.0,111
+35,2016,Florida,0.288,Fla.,FL,12.6,2704
+39,2016,Georgia,0.377,Ga.,GA,15.0,1571
+43,2016,Hawaii,0.091,Hawaii,HI,4.5,66
+47,2016,Idaho,0.578,Idaho,ID,14.6,242
+51,2016,Illinois,0.226,Ill.,IL,11.7,1490
+55,2016,Indiana,0.424,Ind.,IN,15.0,997
+59,2016,Iowa,0.385,Iowa,IA,9.2,288
+63,2016,Kansas,0.423,Kans.,KS,13.4,383
+67,2016,Kentucky,0.525,Ky.,KY,17.5,772
+71,2016,Louisiana,0.523,La.,LA,21.3,987
+75,2016,Maine,0.477,Maine,ME,8.3,123
+79,2016,Maryland,0.167,Md.,MD,11.9,707
+83,2016,Massachusetts,0.09,Mass.,MA,3.4,242
+87,2016,Michigan,0.389,Mich.,MI,12.3,1230
+91,2016,Minnesota,0.391,Minn.,MN,7.6,432
+95,2016,Mississippi,0.541,Miss.,MS,19.9,587
+99,2016,Missouri,0.528,Mo.,MO,19.0,1144
+103,2016,Montana,0.65,Mont.,MT,18.9,194
+107,2016,Nebraska,0.392,Nebr.,NE,9.1,171
+111,2016,Nevada,0.329,Nev.,NV,16.8,498
+115,2016,New Hampshire,0.463,N.H.,NH,9.3,132
+119,2016,New Jersey,0.089,N.J.,NJ,5.5,485
+123,2016,New Mexico,0.359,N.M.,NM,18.1,383
+127,2016,New York,0.145,N.Y.,NY,4.4,900
+131,2016,North Carolina,0.371,N.C.,NC,13.7,1409
+135,2016,North Dakota,0.533,N.D.,ND,11.9,90
+139,2016,Ohio,0.419,Ohio,OH,12.9,1524
+143,2016,Oklahoma,0.549,Okla.,OK,19.6,766
+147,2016,Oregon,0.414,Ore.,OR,11.9,513
+151,2016,Pennsylvania,0.402,Pa.,PA,12.0,1555
+155,2016,Rhode Island,0.139,R.I.,RI,4.1,49
+159,2016,South Carolina,0.45,S.C.,SC,17.7,891
+163,2016,South Dakota,0.55,S.D.,SD,13.4,108
+167,2016,Tennessee,0.469,Tenn.,TN,17.1,1148
+171,2016,Texas,0.355,Tex.,TX,12.1,3353
+175,2016,Utah,0.397,Utah,UT,12.9,370
+179,2016,Vermont,0.503,Vt.,VT,11.1,78
+183,2016,Virginia,0.353,Va.,VA,12.1,1049
+187,2016,Washington,0.321,Wash.,WA,9.0,686
+191,2016,West Virginia,0.6,W.Va.,WV,17.5,332
+195,2016,Wisconsin,0.471,Wis.,WI,11.4,664
+199,2016,Wyoming,0.607,Wyo.,WY,17.4,101
